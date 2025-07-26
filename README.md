@@ -34,11 +34,13 @@ NutriSnap was created as part of a data/ML-driven event to show how **open food 
 
 |## 📸 Screenshots
 
-| Home Screen 1 | Home Screen 2 |
-|---------------|----------------|
-| ![Home1](app/Screenshots/Home.JPG) | ![Home2](Screenshots/Home2.JPG) |
+| Home Screen 1 | 
+|---------------|
+| ![Home1](app/Screenshots/Home.JPG) |
 
-
+| Home Screen 2                   |
+|---------------------------------|
+| ![Home2](app/Screenshots/Home2.JPG) |
 ---
 
 ## 🛠️ Tech Stack
