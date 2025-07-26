@@ -36,7 +36,7 @@ NutriSnap was created as part of a data/ML-driven event to show how **open food 
 
 | Home Screen 1 | Home Screen 2 |
 |---------------|----------------|
-| ![Home1](/Users/prajwallkurs/Developer/Android/Nutrisnap/app/Screenshots/Home.JPG) | ![Home2](Screenshots/Home2.JPG) |
+| ![Home1](app/Screenshots/Home.JPG) | ![Home2](Screenshots/Home2.JPG) |
 
 
 ---
